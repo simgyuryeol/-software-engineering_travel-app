@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988323034947",
+    "project_id": "travel-preparelist",
+    "storage_bucket": "travel-preparelist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988323034947:android:4ed257d45ec69e062361f6",
+        "android_client_info": {
+          "package_name": "com.example.travel_preparelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988323034947-nc39iot0531sqbmrgfuafq1ipslq42ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_preparelist",
+            "certificate_hash": "1f60ec9e648e292513e7953235d471a820015e81"
+          }
+        },
+        {
+          "client_id": "988323034947-crs9una2oqtbq2p5nbnjf7l78ptog7ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ew-drA6rBQl_xIHpkbrL-P7YgM8JJRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988323034947-crs9una2oqtbq2p5nbnjf7l78ptog7ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
